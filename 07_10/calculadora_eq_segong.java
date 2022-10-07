@@ -25,13 +25,13 @@ public class Main {
 
                 do {
                     System.out.print("Introdueix el terme a: ");
-                    a = lt.llegirReal();
+                        a = lt.llegirReal();
                     System.out.println();
                     System.out.print("Introdueix el terme b: ");
-                    b = lt.llegirReal();
+                        b = lt.llegirReal();
                     System.out.println();
                     System.out.print("Introdueix el terme c: ");
-                    c = lt.llegirReal();
+                        c = lt.llegirReal();
                     num_validation=true;
                     System.out.println("Es aquesta l'expressió algebraica a resoldre? " + a + "x^2 + " + b + "x + " + c + " = 0");
                     System.out.println("[y/n]");
