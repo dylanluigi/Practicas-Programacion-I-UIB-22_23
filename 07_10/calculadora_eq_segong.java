@@ -4,13 +4,16 @@ import static java.lang.Double.NaN;
 
 public class Main {
     public static void main(String[] args) {
+        
         //Declaracio de variables i classes
+        
         double a=0, b=0, c=0, x1=0, x2=0;
         boolean validat=false, num_validation=false;
         LT lt = new LT();
 
         System.out.println("Benvolgut a la calculadora d'equacions de segon grau!");
         System.out.println("Per poder utilitzar aquesta versió introdueix els termes a, b ,c de l'expressió ax^2+bx+c=0");
+        
         /*/
         Seccio del programa que agafa els inputs dels termes i els
         valida (son numeros?), per poder tornar a demanar l'input
@@ -79,9 +82,11 @@ public class Main {
 
         x2=((-b)-Math.sqrt((b*b)-4*a*c))/(2*a);
 
-        //Validació dels termes per donar un output != a NaN emprant la funció Double.isNaN() que correspon a un valor
-        //Boolea
-
+        /*/
+        Validació dels termes per donar un output != a NaN emprant la funció Double.isNaN() que correspon a un valor
+        Boolea
+        /*/
+        
         if(Double.isNaN(x1)){
             System.out.println("x1 no te solució.");
         }else{
