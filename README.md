@@ -1,2 +1,2 @@
-# programacio_1
-Ejercicios de clase 
+# Ejercicios de Programacion
+Cosas que hemos dado en classes practicas
