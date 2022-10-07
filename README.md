@@ -1,8 +1,11 @@
-## Ejercicios de Programación. 1
+## Ejercicios de Programación 1
 
 Repositorio de github de mis programas de la assignatura de programación 1, junto con explicaciones de mis pasos para desarollarlos, si teneis alguna pregunta porfavor abrid foros de discusion para ayuda.
 
 
-![Logo Universitat 1](uib_logo (1).png)
 
+
+
+----------------------------------------
+<img src="logouni.png" width="200" align>
 
